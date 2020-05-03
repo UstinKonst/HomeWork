@@ -66,7 +66,6 @@ public class Logic {
             System.out.println();
         }
     }
-
 //    public static void humanTurn() {
 ////        int x;
 ////        int y;

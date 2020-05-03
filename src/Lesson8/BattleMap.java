@@ -99,7 +99,6 @@ public class BattleMap extends JPanel {
                 cellX*cellWidth , (cellY+1)*cellHeight);
     }
 
-
     void startNewGame(int gameMode, int fieldSizeX, int fieldSizeY, int winLength) {
 //        System.out.println(gameMode + " " + fieldSizeX + " " + fieldSizeY + " " + winLength);
         this.fieldSizeX = fieldSizeX;

@@ -13,7 +13,6 @@ public class StartNewGameWindow extends JFrame {
     private static final int MIN_WIN_LENGTH = 3;
 
 
-
     private JRadioButton jrbHumVsAi;
     private JRadioButton jrbHumVsHum;
     private ButtonGroup gameMode;
