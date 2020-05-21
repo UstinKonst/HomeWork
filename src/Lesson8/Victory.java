@@ -29,5 +29,4 @@ public class Victory extends JFrame {
         setVisible(true);
     }
 
-
 }

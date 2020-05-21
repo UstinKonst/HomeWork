@@ -9,7 +9,6 @@ public class GameWindow extends JFrame {
     private static final int WIN_POS_X = 600;
     private static final int WIN_POS_Y = 400;
 
-
     private StartNewGameWindow startNewGameWindow;
     private BattleMap field;
 
