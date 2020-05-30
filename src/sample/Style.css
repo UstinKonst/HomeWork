@@ -1,0 +1,10 @@
+.button{
+    -fx-background-color: green;
+
+}
+
+.button:hover{
+    -fx-background-color: #ff8e67;
+    -fx-font-size: 10;
+}
+
