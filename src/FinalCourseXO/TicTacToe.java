@@ -1,4 +1,4 @@
-package Lesson8;
+package FinalCourseXO;
 
 public class TicTacToe {
     public static void main(String[] args) {

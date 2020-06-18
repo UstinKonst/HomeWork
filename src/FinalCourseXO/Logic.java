@@ -1,4 +1,4 @@
-package Lesson8;
+package FinalCourseXO;
 
 import java.util.Random;
 
